@@ -1,1 +1,1 @@
-Contains optimized pass-through oftable  variables
+Contains optimized pass-through of table  variables
